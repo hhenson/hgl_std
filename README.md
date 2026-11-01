@@ -6,3 +6,6 @@ mandatory [core](https://github.com/hhenson/hgl_core) and
 
 Read the [foundation charter](spec/foundation.md). This repository is a
 scaffold; no library modules or executable tests have been added.
+
+Track [open decisions](https://github.com/hhenson/hgl_std/issues/1) separately
+from the specifications.

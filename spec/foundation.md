@@ -14,9 +14,5 @@ Date: 2026-11-01. Status: agreed boundary; module inventory remains open.
 - **STD-5.** Runtime conformance expectations belong to core. Library-specific
   contracts and tests belong here. The repository stands independently of any
   historical source or experiment record.
-
-## Open
-
-- Module names, initial operator inventory, and the native helper interface.
-- Packaging and compatibility with the language and core versions.
-- The first practical library example after the core eval exercise.
+- **STD-6.** Track open questions and pending decisions in issues, outside
+  specification and explanation documents.
