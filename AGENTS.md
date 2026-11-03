@@ -1,7 +1,9 @@
 # Standard-library rules
 
 - Keep documents and discussions terse. Avoid extended dialogue.
-- Separate agreed decisions, proposed behavior, and open questions.
+- Label agreed decisions and proposed behavior. Keep open questions and decision
+  checklists in this repository's issue tracker, outside specification and
+  explanation documents.
 - Put contracts, examples/APIs, and useful diagrams in `spec/`. Add explanations
   under `explanations/` only when needed.
 - Put HGL declarations and bodies under `hgl/`, required native implementation
